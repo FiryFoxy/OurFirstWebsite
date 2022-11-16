@@ -1,0 +1,7 @@
+#titolo {
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+}
+body {
+    background-color:linear-gradient(to left, blue, violet);
+}
