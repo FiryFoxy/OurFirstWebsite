@@ -1,7 +1,14 @@
 #titolo {
     font-family: 'Times New Roman', Times, serif;
     color: aqua;
+    text-align: center;
 }
 body {
-    background-color:linear-gradient(to left, blue, violet);
+    background: linear-gradient(to left, #a00ae6,#049bcd);
+}
+#login {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  background-color: #a9a2a2 ;
 }
