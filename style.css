@@ -7,8 +7,45 @@ body {
     background: linear-gradient(to left, #a00ae6,#049bcd);
 }
 #login {
+  height: 30%;
+  width: 40%;
   position: absolute;
-  top: 20%;
-  left: 50%;
-  background-color: #a9a2a2 ;
+  top: 30%;
+  left: 30%;
+  background-color:#e1cbcb;
+  opacity: 0.6;
+  border-radius: 200px;
+}
+#log {
+  height: 30px;
+  width: 300px;
+  border-style:none;
+  border-radius: 100px;
+  position: relative;
+  top:10%;
+  left:15%;
+  background-color:#bdcbd1;
+}
+#logl {
+  height: 30px;
+  width: 300px;
+  position: relative;
+  top:10%;
+  left:15%;
+}
+#submit {
+  border-style:solid;
+  border-radius: 100px;
+  border-color:#92b1bf
+  background-color: #e1cbcb;
+  position: absolute;
+  top: 70%;
+  left: 15%;
+}
+#title {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  position: absolute;
+  top: 25%;
+  left: 36%;
 }
